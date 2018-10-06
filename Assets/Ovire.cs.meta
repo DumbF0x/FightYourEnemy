@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7cd86afce2087d34f9037260819256d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ovirePrefab: {fileID: 1030276114643228, guid: 311f7a214457bf648bdccc2d1ddc9b6a,
+      type: 2}
+  - borderTop: {instanceID: 0}
+  - borderBottom: {instanceID: 0}
+  - borderLeft: {instanceID: 0}
+  - borderRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
