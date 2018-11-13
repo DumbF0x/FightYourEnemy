@@ -1,0 +1,10 @@
+c:\users\ostoj\source\repos\UEA\UEA\bin\Debug\UEA.exe.config
+c:\users\ostoj\source\repos\UEA\UEA\bin\Debug\UEA.exe
+c:\users\ostoj\source\repos\UEA\UEA\bin\Debug\UEA.pdb
+c:\users\ostoj\source\repos\UEA\UEA\obj\Debug\UEA.csprojResolveAssemblyReference.cache
+c:\users\ostoj\source\repos\UEA\UEA\obj\Debug\UEA.Form1.resources
+c:\users\ostoj\source\repos\UEA\UEA\obj\Debug\UEA.Properties.Resources.resources
+c:\users\ostoj\source\repos\UEA\UEA\obj\Debug\UEA.csproj.GenerateResource.cache
+c:\users\ostoj\source\repos\UEA\UEA\obj\Debug\UEA.csproj.CoreCompileInputs.cache
+c:\users\ostoj\source\repos\UEA\UEA\obj\Debug\UEA.exe
+c:\users\ostoj\source\repos\UEA\UEA\obj\Debug\UEA.pdb
